@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b9ea1f2dfa4d2370",
+    "type": "split",
+    "children": [
+      {
+        "id": "daeec3dcd6964e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c3500a0a8a0f19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задания прошлых лет/Раздел А/Задание 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 1"
+            }
+          },
+          {
+            "id": "ce766aaa1cb5ad31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задания прошлых лет/Раздел А/Задание 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 1"
+            }
+          },
+          {
+            "id": "010086664a45ffa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Темы/Комплексные числа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Комплексные числа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d260b94970823ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b07da25c899f6a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55546fb04d2f141",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "6cb37f9232d23821",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7aac233dcf9bf5b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "430a07cf006f4a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9de3abdd06b4455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75547e0af18edcd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "План.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for План"
+            }
+          },
+          {
+            "id": "5b070034fa81518f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "План.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from План"
+            }
+          },
+          {
+            "id": "34590e4eeff98c53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6908e086175d3890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "План.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of План"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c3500a0a8a0f19b",
+  "lastOpenFiles": [
+    "Темы/Комплексные числа.md",
+    "Задания прошлых лет/Раздел А/Задание 1.md",
+    "Полезные ссылки.md",
+    "План.md",
+    "Темы",
+    "Задания прошлых лет/Untitled.md",
+    "Задания прошлых лет/Раздел А",
+    "Задания прошлых лет"
+  ]
+}
